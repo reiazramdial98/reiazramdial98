@@ -1,0 +1,25 @@
+p{
+	color:white;
+	text-align: center;
+	font-size: 23px;
+}
+
+body{
+	background-image: url("https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/57110b8127d4bd65ccd86822/1460734859220/?format=2500w");
+}
+
+img{
+  width:700px;
+  length:700px;
+  border-image:center;
+}
+
+h1{
+     color:white;   
+}
+
+a{
+  color:white;
+  font-family: 'times new roman', serif;
+  font-size: 25px;
+}
