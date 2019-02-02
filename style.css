@@ -1,11 +1,11 @@
 p{
-	color:white;
+	color:pink;
 	text-align: center;
 	font-size: 23px;
 }
 
 body{
-	background-image: url("https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/57110b8127d4bd65ccd86822/1460734859220/?format=2500w");
+	background-image: url("https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif");
 }
 
 img{
@@ -15,11 +15,11 @@ img{
 }
 
 h1{
-     color:white;   
+     color:pink;   
 }
 
 a{
-  color:white;
+  color:pink;
   font-family: 'times new roman', serif;
   font-size: 25px;
 }
