@@ -12,3 +12,18 @@ function typeWriter() {
     setTimeout(typeWriter, speed);
   }
 }
+
+$(document).ready(function(){
+	$("#name").hover(enter, leave);
+	function enter() {
+  		this.style.color = "green";
+  		this.style.fontStyle = "italics";
+	} 
+function leave() {
+  this.style.color = "pink";
+  this.style.fontStyle = "normal";
+}
+
+
+
+});
