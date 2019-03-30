@@ -25,7 +25,24 @@ a{
   font-size: 25px;
 }
 
-#grandma{
-    color:red;
-    text-align: center;
+#momma{
+  color: red;
+  text-align: center;
 }
+
+#grandma{
+  color: pink;
+  text-align: center;
+}
+
+#poppop{
+  color:white;
+  text-align: center;
+}
+
+#sister{
+  color: lightblue;
+  text-align: center;
+}
+
+
