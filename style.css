@@ -1,12 +1,11 @@
 
 p{
-	color:pink;
 	text-align: center;
 	font-size: 23px;
 }
 
 body{
-	background-image: url("https://media1.giphy.com/media/8XO1T4smpEQM/giphy.gif");
+	background-image: url("https://cdn-images-1.medium.com/max/1600/1*xZrSvUrS-6zQQBfevGed2w.gif");
 }
 
 img{
@@ -16,11 +15,16 @@ img{
 }
 
 h1{
-     color:pink;   
+     color:teal;   
 }
 
 a{
-  color:pink;
+  color:teal;
   font-family: 'times new roman', serif;
   font-size: 25px;
+}
+
+#grandma{
+    color:red;
+    text-align: center;
 }
